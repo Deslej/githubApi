@@ -1,4 +1,4 @@
-# GitHub Repositories API
+## githubApi
 
 A simple Spring Boot application that exposes a REST endpoint to list all **non-forked** GitHub repositories of a given user. For each repository, the API returns:
 
